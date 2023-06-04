@@ -52,6 +52,9 @@ div[id=main] button{
   justify-content: space-evenly;
 }
 
+.reset{
+  background-color: #737da3;
+}
 
 div input{
   margin:5px 10px 5px 5px;
