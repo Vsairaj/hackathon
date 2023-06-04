@@ -40,7 +40,7 @@ div[id=main] button{
 
 .app, .score{
   background-color: #252d4a;
-  width: 450px;
+  max-width: 450px;
   min-height: 200px;
   height: min-content;
   border-radius: 15px;
@@ -124,7 +124,7 @@ button[disabled=disabled]:hover, button:disabled:hover {
 p.score{
   background-color: #252d4a;
   width:fit-content;
-  
+  display:flex;
 }
 
 .score-section {
