@@ -11,3 +11,4 @@ This is my submission for the KnowledgeHut Hackathon. The web app holds a quiz w
 **Instructions**
 1. Clone the repo and run ``npm install``
 2. From the app folder run ``npm run dev``
+3. The 'Reset' button resets the local storage so that previously attempted quizzes become available to attempt once again.
